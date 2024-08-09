@@ -70,7 +70,7 @@ function getComplementaryColor(color) {
         case "DarkBlue":
             return "#FFFF74";
         case "DarkCyan":
-            return "#FFF7474";
+            return "#FF7474";
         case "DarkGoldenRod":
             return "#4779F4";
         case "DarkGray":
