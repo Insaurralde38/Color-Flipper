@@ -5,7 +5,7 @@
 # Proyecto Personal | [**Color Flipper**](https://color-flipper-insa.vercel.app/)
 
 <p align="center">
-  <img src="https://www.vecteezy.com/blog/wp-content/uploads/2021/08/color-palette-generators.jpg" alt="Color Flipper" />
+  <img src="https://www.vecteezy.com/blog/wp-content/uploads/2021/08/color-palette-generators.jpg" alt="Color Flipper Banner" />
 </p>
 
 <div align="center">
